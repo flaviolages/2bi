@@ -16,13 +16,21 @@ inicio
       leia(jacare)
       escreva("Coxinha ? ")
       leia(coxinha)
-      
-      vendido <- ((jacare*2.50)+(coxinha*2.50))
-      escreva("Total em vendas R$",vendido)
       escrevaL
-      
+      escrevaL
+      escrevaL
+
+
       guardar <- (0.1*vendido)
       escreva("Guardar R$",guardar)
+      escrevaL
+      escrevaL
+
+
+      vendido <- ((jacare*2.50)+(coxinha*2.50))
+      escreva("Total em vendas R$",vendido)
+      
+      
       
       
       escrevaL
