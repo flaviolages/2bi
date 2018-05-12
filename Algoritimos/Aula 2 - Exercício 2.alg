@@ -22,7 +22,7 @@ inicio
 	escreva("Nota dos exercicios ? ")
 	leia(exercicio)
 	
-	media <- ((prova+trabalho+exercicio)/3)
+	media <- (( (prova*7) + (trabalho*2) + exercicio)/10 )
 	
 	escrevaL
     escrevaL
