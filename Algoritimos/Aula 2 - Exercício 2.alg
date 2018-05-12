@@ -3,6 +3,8 @@ Algoritmo "Aula 2 - Exercicio 2"
 // Professor   : Jose Claudio Vianna Jr
 // Autor(a)    : Flavio RL Junior
 // Data atual  : 11/05/2018
+
+
 var
 
    exercicio, trabalho, prova : inteiro

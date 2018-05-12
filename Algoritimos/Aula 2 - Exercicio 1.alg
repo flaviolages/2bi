@@ -3,6 +3,8 @@ Algoritmo "Aula 2 - Exercicio 1"
 // Professor   : Jose Claudio Vianna Jr
 // Autor(a)    : Flavio RL Junior
 // Data atual  : 11/05/2018
+
+
 var
    valor1, valor2, resultado, ipi : real
    qnt1, qnt2                     : real
