@@ -1,5 +1,5 @@
 //
-//
+// 
 //
 // Trasformar Arduino em um ravador ISP
 // 
@@ -7,7 +7,13 @@
 // Direitos!
 // http://www.opensource.org/licenses/bsd-license.php
 //
+//  
+// Datasheet
+// https://github.com/flaviolages/2bi/blob/master/Arduino/ATtiny85-datasheet.pdf
 //
+//
+// Imagem de ligação
+// https://github.com/flaviolages/2bi/blob/master/Arduino/conect-arduino-attiny85.png
 //
 // Nome Pino:     Arduino           ATtiny85
 // slave reset:   10:               Reset 
